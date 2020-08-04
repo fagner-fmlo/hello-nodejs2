@@ -1,1 +1,1 @@
-console.log("Deploy Automatizado\n");
+console.log("Deploy Automatizado 2\n");
